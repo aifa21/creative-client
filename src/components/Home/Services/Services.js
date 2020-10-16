@@ -55,7 +55,7 @@ const Services = () => {
    const [addService, setAddService] = useState([]);
   console.log(addService);
     useEffect(()=>{
-        fetch('http://localhost:5000/addService')
+        fetch('https://nameless-sands-87488.herokuapp.com/addService')
         .then(res => res.json())
         .then(data => setAddService(data))
     }, [])

@@ -23,7 +23,7 @@ const Order = () => {
     formData.append("description", info.description);
     formData.append("service", info.service);
 
-    fetch("http://localhost:5000/addOrder", {
+    fetch("https://nameless-sands-87488.herokuapp.com/addOrder", {
       method: "POST",
       body: formData,
     })

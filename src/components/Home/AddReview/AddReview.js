@@ -8,7 +8,7 @@ const AddReview = () => {
     const handleReview = () => {
             const service = {};
            // console.log(service);
-            fetch('http://localhost:5000/addAdmin', {
+            fetch('https://nameless-sands-87488.herokuapp.com/addAdmin', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'

@@ -1,0 +1,12 @@
+.review-container {
+    background-color: #fff;
+    padding: 100px 0px;
+    margin-left:30px;
+    margin-right:30px;
+}
+.review-container h2{
+    font-family: Poppins;
+    text-align: center;
+    padding:30px 0;
+    margin-bottom:30px;
+}

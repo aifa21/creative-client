@@ -1,0 +1,19 @@
+.carousel-item{
+    padding:100px 40px;
+   
+}
+.container{
+    
+    background-color: black;
+}
+.carousel-img{
+   
+    padding:20px 40px;
+    width:50px;
+    height:100px;
+}
+.container h4{
+    color:white;
+    text-align: center;
+    padding-top: 40px;
+}

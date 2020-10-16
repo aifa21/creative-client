@@ -1,0 +1,20 @@
+
+.info-container{
+    margin-bottom: 40px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 30px 0px;
+    box-shadow: 5px 5px 20px #f8f6f6;
+    transition: 0.5s all ease;
+    width:300px;
+    height:300px;
+}
+.info-container:hover {
+    box-shadow: 5px 5px 40px #857e7e;
+}
+
+
+.info-container img{
+    width:46px;
+    margin-top: 10px;
+}

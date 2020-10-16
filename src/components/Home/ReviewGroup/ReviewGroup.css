@@ -1,0 +1,36 @@
+/* .info1-container{
+    margin-bottom: 40px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 30px 0px;
+    
+    border:1px solid black;
+    width:300px;
+    height:250px;
+}
+.info1-container:hover {
+    box-shadow: 4px 4px 30px #dad5d5;
+} */
+
+
+.info1-container img{
+    width:76px;
+    margin-top: 10px;
+   
+}
+.info1-container p{
+    text-align:left;
+    font-family: Poppins;
+}
+.title{
+    padding:10px 10px;
+    text-align:left;
+    font-family: Poppins;
+    
+}
+.title h5{
+    font-weight:bold;
+}
+.describe{
+    padding:20px 20px;
+}
